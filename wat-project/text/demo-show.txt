@@ -8,8 +8,8 @@
 model是数据库文件 数据库组有权向下操作
 static是静态文件 放置css和js文件
 templates是html文件前端组有权操作html文件和css文件
-views 后端文件
-__init__ 连接文件
+home_page 后端代码
+__init__ 包标志文件文件
 run运行文件
 Setting配置文件（实例化app和数据库可直接调用）
 text 文档文件 放置项目说明文档 以及word和ppt
